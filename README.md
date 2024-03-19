@@ -1,1 +1,3 @@
-# :tada: Repositorio destinado al proyecto de las landing page :tada:
+# :sparkles:Landing-pages:sparkles:
+
+> Realizacidon de la pagina N.7.
