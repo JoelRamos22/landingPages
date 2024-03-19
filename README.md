@@ -1,0 +1,1 @@
+# :tada: Repositorio destinado al proyecto de las landing page :tada:
